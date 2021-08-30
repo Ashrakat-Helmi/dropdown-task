@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/p3.jpg);
+    background-size: 100%;
+
+}
+
+ul{
+    margin-top: 37px;
+}
+.list{
+ 
+    display: none;
+}
